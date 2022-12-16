@@ -1,5 +1,5 @@
 node {
-  statge("testing ci/cd"){
+  stage("testing ci/cd"){
     println "Hi, I am working!"
   }
   
