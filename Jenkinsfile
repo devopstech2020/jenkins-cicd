@@ -1,4 +1,4 @@
 #!groovy
 @Library("jenkins-shared-library@main") _
 
-exampleJenkinsfile
+exampleJenkinsfile  servicename: "hello_World"
